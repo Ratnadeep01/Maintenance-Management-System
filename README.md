@@ -48,7 +48,7 @@ mvn spring-boot:run
 You can test APIs using Postman or any REST client.
 Example base URL:
 ```
-http://localhost:8080/api/complaints/post ----> To raise the complaint.
+http://localhost:8080/api/complaints/post 
 ```
 There are total 5 apis. Check ComplaintController.java for all the apis.
 
